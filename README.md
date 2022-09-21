@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://ranasaha.netlify.app/](https://ranasaha.netlify.app/)
 
-- ⚡ Fun fact **I like to play cheese.**
+- ⚡ Fun fact **I would like to play chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
