@@ -1,4 +1,4 @@
-
+<img align='center' alt='coding' width='100%' src='https://i.ibb.co/26VG6ff/banner.jpg'>
 <h1 align="center">Hi 👋, I'm Rana Saha</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
